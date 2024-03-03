@@ -9,10 +9,11 @@ This project focuses on analyzing the performance of an e-commerce website from 
 - Developed a customer search engine enabling users to access individual order histories based on unique customer IDs.
 
 ## Dataset
-The dataset used for analysis can be found [here](link_to_dataset).
+The dataset used for analysis can be found in this repo
 
 ## Dashboards
-Explore the interactive dashboards [here](link_to_dashboards).
+Explore the interactive dashboards [here](https://public.tableau.com/app/profile/omar.elzr/viz/CustomerAnalysisForE-Commarce/FirstDashboard).
+                                   [here]([https://public.tableau.com/app/profile/omar.elzr/viz/CustomerAnalysisForE-Commarce/FirstDashboard](https://public.tableau.com/app/profile/omar.elzr/viz/CustomerAnalysisForE-Commarce2/SecondDashboard)).
 
 ## Feedback
 Your support and feedback are greatly appreciated! Feel free to reach out with any suggestions or questions.
